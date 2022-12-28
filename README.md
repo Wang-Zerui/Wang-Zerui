@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://avatars.githubusercontent.com/u/69704785?v=4" align="left" width="128px" height="128px" style="background-color:#333" />
 
-<!--
-**Wang-Zerui/Wang-Zerui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <img alt="👋" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f44b.png" height="32px" align="left" /> Hi! I'm Zerui!
 
-Here are some ideas to get you started:
+Thanks for stopping by!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## <img alt="📈" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4c8.png" height="28px" align="left" /> Some stats
+![](https://github.com/Wang-Zerui/gh-stats/blob/master/generated/overview.svg)
+![](https://github.com/Wang-Zerui/gh-stats/blob/master/generated/languages.svg)
+![iamnumber4's GitHub stats](https://github-readme-stats.vercel.app/api?username=Wang-Zerui&bg_color=22272e&border_color=444c56&text_color=adbac7&show_icons=true&title_color=e72c2b&icon_color=ff565a)
+
+## <img alt="💻" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4bb.png" height="28px" align="left" /> My Projects
+Currently working on CTFs, parttaking competitions as team **blahaj**!
+
+## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
+Want to talk? Contact me through one of these methods:
+* **Email**: [h2010155@nushigh.edu.sg](mailto:h2010155@nushigh.edu.sg)
+* **Discord**: `iamnumber4#0655`
