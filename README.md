@@ -14,5 +14,5 @@ Currently working on CTFs, parttaking competitions as team **blahaj**!
 
 ## <img alt="📬" src="https://twemoji.maxcdn.com/v/13.1.0/72x72/1f4ec.png" height="28px" align="left" /> Reaching Me
 Want to talk? Contact me through one of these methods:
-* **Email**: [h2010155@nushigh.edu.sg](mailto:h2010155@nushigh.edu.sg)
+* **Email**: [iamnumber4@duck.com](mailto:iamnumber4@duck.com)
 * **Discord**: `iamnumber4#0655`
